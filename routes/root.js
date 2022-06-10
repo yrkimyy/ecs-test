@@ -5,3 +5,4 @@ module.exports = async function (fastify, opts) {
     return { root: true }
   })
 }
+
